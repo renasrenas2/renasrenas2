@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Renato%20Moreira&fontColor=000000&color=0:b3ebf2,100:b3ebf2&fontSize=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Renato%20Moreira&fontColor=713600&color=0:b3ebf2,100:b3ebf2&fontSize=50&animation=fadeIn"/>
 <p align="center">
   Estudante de Engenharia de Software • Python Developer in Progress
 </p>
