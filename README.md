@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_DO_SEU_BANNER" alt="Banner" width="100%">
+  <img src="https://blog.mbauspesalq.com/qual-a-atuacao-de-um-engenheiro-de-software/" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Renato Moreira Santos Faria</h1>
