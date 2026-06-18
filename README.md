@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blog.mbauspesalq.com/qual-a-atuacao-de-um-engenheiro-de-software/" alt="Banner" width="100%">
+  <img src="https://blog.mbauspesalq.com/wp-content/uploads/2023/06/atuacao-engenheiro-de-software-1024x576.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Renato Moreira Santos Faria</h1>
